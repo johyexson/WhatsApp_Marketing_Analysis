@@ -9,7 +9,7 @@ I personally obtained data from undergraduate students of Benson Idahosa Univers
 # Methods
 * The populaton was too large to cover so a representative sample derived through the purposive random sampling technique was used to determine the respondents
 * Questionnaires were distributed to students using a person to person approach
-* The data derived from the respondents were inputed into a table in Excel
+* The data gotten from the respondents were inputed into a table in Excel
 * Sorted and ensured that the data was in a consistent format
 * Converted it to a csv file and loaded it into Tableau for visualization
 # Tools
@@ -26,5 +26,7 @@ WhatsApp social network is a viable marketing tool for student entrepreneurs
 * A higher majority affirmed its effectiveness for marketing their products
 * There were few limitations to the usage of the app but it didn't have adverse effects on sales performance
 # Recommendations
+* The numerous benefits of modern-day technologies in bridging the gap between business users and their customers should be harnessed by student entrepreneurs to facilitate increase in sales performance
+* Employ creativity in delivering messages for marketing in order to attract the attention of prospective customers
 # Explore the Dashboard
-
+The visualization I created in Tableau can be viewed [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/WhatsAppUsagebyStudentEntrepreneurs/WHATSAPPUSAGEANALYSISDASHBOARD)
