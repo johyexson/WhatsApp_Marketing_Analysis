@@ -15,8 +15,16 @@ I personally obtained data from undergraduate students of Benson Idahosa Univers
 # Tools
 * Excel
 * Tableau
+# Graphs
+![](Graph_Image_1.png)
+
+![](Graph_Image_2.png)
 # Key Observation
 WhatsApp social network is a viable marketing tool for student entrepreneurs
 # Summary of Findings
 * Majority of the student entrepreneurs had a positive perception towards the usage of WhatsApp as a marketing tool
-* A higher majority affirmed its effectiveness for marketing
+* A higher majority affirmed its effectiveness for marketing their products
+* There were few limitations to the usage of the app but it didn't have adverse effects on sales performance
+# Recommendations
+# Explore the Dashboard
+
