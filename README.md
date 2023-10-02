@@ -1,17 +1,28 @@
 # WhatsApp_Marketing_Analysis
 ![](Introductory_Image.png)
-# Introduction
+# Table of Contents
+ - [Project Overview](#project-overview)
+ - [Problem Statement](#problem-statement)
+ - [Data Source](#data-source)
+ - [Method of Analysis](#method-of-analysis)
+ - [Tools](#tools)
+ - [Graphs](#graphs)
+ - [Key Observation](#key-observation)
+ - [Summary of Findings](#summary-of-findings)
+ - [Recommendations](#recommendations)
+ - [Dashboard](#dashboard)
+# Project Overview
 This is a personal project whereby I conducted research on student entrepreneurs in Nigerian Universities and their usage of WhatsApp as a medium/tool for marketing their products and services. The need for this research study was as a result of the surge in students venturing into entrepreneurship on campuses in Nigeria due to increase in tuition fees.
-# Business Task
-Evaluate the effectiveness of WhatsApp as a marketing tool for student entrepreneurs.
+# Problem Statement
+How can one ascertain the effectiveness of WhatsApp as a marketing tool for student entrepreneurs?
 # Data Source
 I personally obtained data from undergraduate students of Benson Idahosa University in Benin City, Nigeria. A survey was carried out through the distribution of questionnaires with which answers were provided anonymously in order to ensure privacy protection. 
-# Methods
+# Method of Analysis
 * The populaton was too large to cover so a representative sample derived through the purposive random sampling technique was used to determine the respondents
 * Questionnaires were distributed to students using a person to person approach
 * The data gotten from the respondents were inputed into a table in Excel
 * Sorted and ensured that the data was in a consistent format
-* Converted it to a csv file and loaded it into Tableau for visualization
+* Converted it to a csv file and imported it to Tableau for visualization
 # Tools
 * Excel
 * Tableau
@@ -28,5 +39,5 @@ WhatsApp social network is a viable marketing tool for student entrepreneurs
 # Recommendations
 * The numerous benefits of modern-day technologies in bridging the gap between business users and their customers should be harnessed by student entrepreneurs to facilitate increase in sales performance
 * Employ creativity in delivering messages for marketing in order to attract the attention of prospective customers
-# Explore the Dashboard
+# Dashboard
 The visualization I created in Tableau can be viewed [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/WhatsAppUsagebyStudentEntrepreneurs/WHATSAPPUSAGEANALYSISDASHBOARD)
