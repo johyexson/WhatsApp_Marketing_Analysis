@@ -29,6 +29,7 @@ I personally obtained data from undergraduate students of Benson Idahosa Univers
 # Graphs
 ![](Graph_Image_1.png)
 
+
 ![](Graph_Image_2.png)
 # Key Observation
 WhatsApp social network is a viable marketing tool for student entrepreneurs
