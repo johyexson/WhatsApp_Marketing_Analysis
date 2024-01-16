@@ -22,7 +22,8 @@ I personally obtained data from undergraduate students of Benson Idahosa Univers
 * Questionnaires were distributed to students using a person to person approach
 * The data gotten from the respondents were inputed into a table in Excel
 * Sorted and ensured that the data was in a consistent format
-* Converted it to a csv file and imported it to Tableau for visualization
+* Cleaned and transformed the data for the purpose of analysis
+* Converted it to a csv file and imported it into Tableau for visualization
 # Tools
 * Excel
 * Tableau
