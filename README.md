@@ -26,7 +26,7 @@ I personally obtained data from undergraduate students of Benson Idahosa Univers
 * Converted it to a csv file and imported it into Tableau for visualization
 # Tools
 * Excel
-* Tableau
+* [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/WhatsAppUsagebyStudentEntrepreneurs/WHATSAPPUSAGEANALYSISDASHBOARD)
 # Graphs
 ![](Graph_Image_1.png)
 
