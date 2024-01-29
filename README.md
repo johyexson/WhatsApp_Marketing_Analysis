@@ -33,7 +33,7 @@ The following questions were answered and visualized as seen below:
 
 ![](Graph_Image_1.png)
 
-
+2) What is the perception of the users as regards the effectiveness of the app?
 ![](Graph_Image_2.png)
 # Key Observation
 WhatsApp social network is a viable marketing tool for student entrepreneurs
