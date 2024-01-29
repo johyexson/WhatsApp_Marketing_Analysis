@@ -29,6 +29,7 @@ I personally obtained data from undergraduate students of Benson Idahosa Univers
 * [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/WhatsAppUsagebyStudentEntrepreneurs/WHATSAPPUSAGEANALYSISDASHBOARD)
 # Graphs
 The following questions were answered and visualized as seen below:
+1) How frequently is WhatsApp being used by entrepreneurs  across the various school faculties?
 
 ![](Graph_Image_1.png)
 
