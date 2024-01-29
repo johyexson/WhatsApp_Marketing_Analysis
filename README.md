@@ -28,6 +28,8 @@ I personally obtained data from undergraduate students of Benson Idahosa Univers
 * Excel
 * [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/WhatsAppUsagebyStudentEntrepreneurs/WHATSAPPUSAGEANALYSISDASHBOARD)
 # Graphs
+The following questions were answered and visualized as seen below:
+
 ![](Graph_Image_1.png)
 
 
