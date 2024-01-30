@@ -36,7 +36,7 @@ The following questions were answered and visualized as seen below:
 2) What is the perception of the users as regards the effectiveness of the app?
 ![](Graph_Image_2.png)
 
-3) What percentage of the students entrepreneurs use WhatsApp as a marketing tool?
+3) What percentage of the student entrepreneurs use WhatsApp as a marketing tool?
 # Key Observation
 WhatsApp social network is a viable marketing tool for student entrepreneurs
 # Summary of Findings
